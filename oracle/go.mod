@@ -16,7 +16,6 @@ require (
 	github.com/urfave/cli v1.22.14
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
-
 require (
 	github.com/VictoriaMetrics/fastcache v1.12.2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
